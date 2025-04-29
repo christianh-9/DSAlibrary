@@ -1,0 +1,21 @@
+# ninja log v6
+14	1800	1745866649900284490	CMakeFiles/firstProject.dir/BinaryTree.cpp.o	4cb5a984e425edda
+33	1812	1745825491662350509	CMakeFiles/firstProject.dir/LinkedList.cpp.o	4a3dbfc3c88ecc29
+36	1885	1745826545260762924	CMakeFiles/firstProject.dir/Stack.cpp.o	843651da7d02da7d
+1173	1316	1745867339366333930	firstProject	41de33158874418a
+9	1166	1745867338201827009	CMakeFiles/firstProject.dir/main.cpp.o	f9bcaab2e71dea9b
+8	2142	1745866945295625536	CMakeFiles/firstProject.dir/src/Stack.cpp.o	48b63c72d18e9215
+13	3023	1745863518760987492	CMakeFiles/firstProject.dir/Graph.cpp.o	26e46587207a4c6d
+16	2890	1745828286231632546	CMakeFiles/firstProject.dir/Queue.cpp.o	3e0fca3f243c5334
+8	1922	1745866945295456327	CMakeFiles/firstProject.dir/src/LinkedList.cpp.o	93c1d4af7b142f8
+9	2055	1745866945296720166	CMakeFiles/firstProject.dir/src/BinaryTree.cpp.o	d18c291c63190e6f
+9	2117	1745866945295766953	CMakeFiles/firstProject.dir/src/Queue.cpp.o	1cd02ca6a47c4ddc
+9	2369	1745866945296046205	CMakeFiles/firstProject.dir/src/Graph.cpp.o	e61800afb501da8b
+11	1173	1745867338204044479	CMakeFiles/firstProject.dir/Menu.cpp.o	96e3a76340836b3b
+18	3532	1745868830342208297	CMakeFiles/firstProject.dir/main.cpp.o	f9bcaab2e71dea9b
+21	3589	1745868830344788081	CMakeFiles/firstProject.dir/src/HashTable.cpp.o	b6949c8f5d78a61b
+21	3631	1745868830344376951	CMakeFiles/firstProject.dir/src/Menu.cpp.o	d44cd27f9777fd3f
+3631	4051	1745868833955149303	firstProject	874c6f5726bce56d
+8	1423	1745893731709198296	CMakeFiles/firstProject.dir/src/BinaryTree.cpp.o	d18c291c63190e6f
+10	1477	1745893731710888710	CMakeFiles/firstProject.dir/src/Menu.cpp.o	d44cd27f9777fd3f
+1477	1642	1745893733178182901	firstProject	874c6f5726bce56d
