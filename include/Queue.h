@@ -1,7 +1,3 @@
-//
-// Created by Christian Hong on 4/27/25.
-//
-
 #ifndef FIRSTPROJECT_QUEUE_H
 #define FIRSTPROJECT_QUEUE_H
 #include <string>

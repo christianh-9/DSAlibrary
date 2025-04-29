@@ -1,7 +1,3 @@
-//
-// Created by Christian Hong on 4/27/25.
-//
-
 #ifndef FIRSTPROJECT_GRAPH_H
 #define FIRSTPROJECT_GRAPH_H
 #include <iostream>

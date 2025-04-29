@@ -1,7 +1,3 @@
-//
-// Created by Christian Hong on 4/28/25.
-//
-
 #ifndef FIRSTPROJECT_HASHTABLE_H
 #define FIRSTPROJECT_HASHTABLE_H
 #include <iostream>

@@ -1,7 +1,3 @@
-//
-// Created by Christian Hong on 4/27/25.
-//
-
 #include "../include/BinaryTree.h"
 #include <iostream>
 

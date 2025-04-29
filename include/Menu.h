@@ -1,7 +1,3 @@
-//
-// Created by Christian Hong on 4/28/25.
-//
-
 #ifndef FIRSTPROJECT_MENU_H
 #define FIRSTPROJECT_MENU_H
 

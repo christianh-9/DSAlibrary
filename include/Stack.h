@@ -1,7 +1,3 @@
-//
-// Created by Christian Hong on 4/27/25.
-//
-
 #ifndef FIRSTPROJECT_STACK_H
 #define FIRSTPROJECT_STACK_H
 #include <string>
