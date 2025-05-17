@@ -3,7 +3,7 @@ project(firstProject)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(firstProject main.cpp
+add_executable(firstProject src/main.cpp
         src/LinkedList.cpp
         include/LinkedList.h
         src/Stack.cpp
